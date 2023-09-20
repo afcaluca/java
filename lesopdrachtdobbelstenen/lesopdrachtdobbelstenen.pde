@@ -29,9 +29,9 @@ resultaat = "Gefeliciteerd je hebt een easter egg gevonden!";
 
 else{
   resultaat = "hit";
-}
+
 
 int gemiddelde = (steen1 + steen2 + steen3) / 3 ;
 resultaat = "hit!" + " " + gemiddelde + " " + "damage gedaan!";
-
+}
 print(resultaat);
