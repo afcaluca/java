@@ -12,9 +12,9 @@ Als alle drie dobbelsten 6 zijn feliciteren we de speler door een leuk bericht.
 
 */
 
-int steen1 = 6;
-int steen2 = 6;
-int steen3 = 6;
+int steen1 = 2;
+int steen2 = 4;
+int steen3 = 1;
 String resultaat = "";
 
 //Je code komt hier

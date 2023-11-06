@@ -1,7 +1,7 @@
 //ik heb een kwartier lang gekut met een error en kwam er uiteindelijk achter dat je bij een case geen ";" maar ":" moet gebruiken.//
 
 
-int leeftijd = 18;
+int leeftijd = 16;
 
 switch(leeftijd){
   case 1:
